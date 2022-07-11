@@ -1,5 +1,5 @@
 # Yandex.Practikum_DA
-В этом репозитории собраны мои учебные проекты по анализу данных Яндекс.Практикума / This repository contains my study projects on DA in Yandex.Practikum  
+В этом репозитории собраны мои учебные проекты по курсу Анализ данных Яндекс.Практикума / This repository contains my study projects on DA in Yandex.Practikum  
 
 ## Сожержание портфолио
 
