@@ -1,5 +1,8 @@
 # Yandex.Practikum_DA
 В этом репозитории собраны мои учебные проекты по курсу Анализ данных Яндекс.Практикума / This repository contains my study projects on DA in Yandex.Practikum  
+Прилагаю сертификаты об успешном окончании курсов:  
+на русском языке: https://github.com/IrinaTetereva/Yandex.Practikum_DA/blob/main/%D0%A1%D0%B5%D1%80%D1%82%D0%B8%D1%84%D0%B8%D0%BA%D0%B0%D1%82.pdf  
+english version: https://github.com/IrinaTetereva/Yandex.Practikum_DA/blob/main/Certificate.pdf
 
 ## Сожержание портфолио
 
