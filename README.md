@@ -51,17 +51,17 @@
 ### `9. Рынок заведений общественного питания Москвы / Moscow catering market`  
    
 [Ссылка / link](https://github.com/IrinaTetereva/Yandex.Practikum_DA/blob/main/9_food_service_market_Moscow/food_service_market_Moscow.ipynb)  
-**Методы и навыки**: язык `python` (создание функций, циклы, списки, словари, строковые данные, логическая индексация), библиотека `pandas` (чтение файла, группировка и сортировка, нахождение среднего, медианы, обработка пропусков и дубликатов, объединение таблиц, настройка отображения данных), библиотека `requests` (функции get, content для чтения внешних данных из google spreadsheets) , библиотека `matplotlib` и модуль `pyplot` (plt.figure()) и библиотека `seaborn` для визуализации данных (stripplot, histplot, barplot, countplot, scatterplot).
+**Методы и навыки**: язык `python` (создание функций, циклы, списки, словари, строковые данные, логическая индексация), библиотека `pandas` (чтение файла, группировка и сортировка, нахождение среднего, медианы, обработка пропусков и дубликатов, объединение таблиц, настройка отображения данных), библиотека `requests` (функции get, content для чтения внешних данных из google spreadsheets) , библиотека `matplotlib` и модуль `pyplot` (plt.figure()) и библиотека `seaborn` для визуализации данных (stripplot, histplot, barplot, countplot, scatterplot).  
 **Ключевые профессиональные направления / Key professional areas**: Data Analyst, Маркетинг-аналитик, Аналитик (универсал)  
     
 ### `10. Анализ реакции пользователей на изменение шрифтов в приложении (A/A/B-тест) / User reaction analysis on changing app's fonts (A/A/B-test)`  
    
 [Ссылка / link](https://github.com/IrinaTetereva/Yandex.Practikum_DA/blob/main/10_apps_sales_funnel_AAB-test/apps_sales_funnel_AAB-test.ipynb)  
-**Методы и навыки**: A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез, визуализация данных.
+**Методы и навыки**: A/B-тестирование, Python, Pandas, Matplotlib, Seaborn, событийная аналитика, продуктовые метрики, Plotly, проверка статистических гипотез, визуализация данных.  
 **Ключевые профессиональные направления / Key professional areas**: Маркетинг-аналитик, Продуктовый аналитик  
     
 ### `11. Взаимодействие пользователей с карточками Яндекс.Дзен / User interaction with Yandex.Zen cards`  
    
 [Ссылка / link](https://public.tableau.com/views/Visits_dash/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link)  
-**Методы и навыки**: язык `python`, библиотека `pandas` (сохранение в файл), пакет `psycopg2-binary` для подключения к PostgreSQL на Python, `SQL`, `Tableau`.
+**Методы и навыки**: язык `python`, библиотека `pandas` (сохранение в файл), пакет `psycopg2-binary` для подключения к PostgreSQL на Python, `SQL`, `Tableau`.  
 **Ключевые профессиональные направления / Key professional areas**: Маркетинг-аналитик, Data Analyst, Аналитик (универсал), BI-аналитик, Tableau построение дашбордов    
